@@ -1,0 +1,26 @@
+{
+  "last": {
+    "mac": {
+      "version": "3.1.5",
+      "pkgUrl": "https://github.com/train-snkrs/pkgs/raw/master/account-train-3.1.5.dmg",
+      "pkgName": "account-train-3.1.5.dmg",
+      "pkgMd5": "856b037023fb4167222830c88a0f754b",
+      "pkgSize": 286353625,
+      "pkgSourceName": "account-train-3.1.5.dmg",
+      "skip": true
+    },
+    "win": {
+      "version": "3.1.5",
+      "pkgUrl": "https://github.com/train-snkrs/pkgs/raw/master/account-train Setup 3.1.5.exe",
+      "pkgName": "account-train Setup 3.1.5.exe",
+      "pkgMd5": "7d4a59537c70d09e69734cde97d3ec10",
+      "pkgSize": 142424143,
+      "pkgSourceName": "account-train Setup 3.1.5.exe",
+      "skip": true
+    }
+  },
+  "history": {
+    "mac": [],
+    "win": []
+  }
+}
