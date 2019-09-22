@@ -1,7 +1,7 @@
 # Latest version download
 
-> v3.1.8
+> v3.1.9
 
-- [mac](https://github.com/train-snkrs/pkgs/releases/download/v3.1.8-mac/account-train-3.1.8.dmg)
+- [mac](https://github.com/train-snkrs/pkgs/releases/download/v3.1.9-mac/account-train-3.1.9.dmg)
 
-- [windows](https://github.com/train-snkrs/pkgs/releases/download/v3.1.8-windows/account-train.Setup.3.1.8.exe)
+- [windows](https://github.com/train-snkrs/pkgs/releases/download/v3.1.9-windows/account-train.Setup.3.1.9.exe)
