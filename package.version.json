@@ -1,1 +1,26 @@
-{"last":{"mac":{"version":"3.1.9","pkgUrl":"https://raw.githubusercontent.com/train-snkrs/pkgs/master/update-pkg-v3.1.9-mac.package.gz","pkgName":"update-pkg-v3.1.9-mac.package.gz","pkgMd5":"bafff2aff79a6e4f054d2bb712bc7665","pkgSize":7385796,"pkgSourceName":"update-pkg-v3.1.9-mac.package","skip":false},"win":{"version":"3.1.9","pkgUrl":"https://raw.githubusercontent.com/train-snkrs/pkgs/master/update-pkg-v3.1.9-win32.package.gz","pkgName":"update-pkg-v3.1.9-win32.package.gz","pkgMd5":"d5f5cb6b4cce7c9a6922d6f2fa7da86d","pkgSize":7385782,"pkgSourceName":"update-pkg-v3.1.9-win32.package","skip":false}},"history":{"mac":[],"win":[]}}
+{
+  "last": {
+    "mac": {
+      "version": "3.2.1",
+      "pkgUrl": "https://raw.githubusercontent.com/train-snkrs/pkgs/master/update-pkg-v3.2.1-mac.package.gz",
+      "pkgName": "update-pkg-v3.2.1-mac.package.gz",
+      "pkgMd5": "73ad83c660f8fd7d97adac102fbdbad7",
+      "pkgSize": 7385778,
+      "pkgSourceName": "update-pkg-v3.2.1-mac.package",
+      "skip": false
+    },
+    "win": {
+      "version": "3.2.1",
+      "pkgUrl": "https://raw.githubusercontent.com/train-snkrs/pkgs/master/update-pkg-v3.2.1-win32.package.gz",
+      "pkgName": "update-pkg-v3.2.1-win32.package.gz",
+      "pkgMd5": "5156201121ef9692ba380716848ec878",
+      "pkgSize": 7385773,
+      "pkgSourceName": "update-pkg-v3.2.1-win32.package",
+      "skip": false
+    }
+  },
+  "history": {
+    "mac": [],
+    "win": []
+  }
+}
